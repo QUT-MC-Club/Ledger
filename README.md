@@ -2,7 +2,7 @@
 
 For a much better guide, visit our [wiki](https://quiltservertools.github.io/Ledger/latest/)
 
-## Ledger
+## Ledger 1.21.5 sync
 
 A world change logging tool for the Fabric modloader.
 
